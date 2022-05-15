@@ -1,0 +1,23 @@
+.email {
+    width: 80%;
+}
+.button {
+    width: 80%;
+}
+h3{
+    color: var(--green);
+    font-size: x-large;
+    text-align: center;
+    border: 2px solid;
+}
+a {
+    text-decoration: none;
+}
+input{
+    padding: 5px;
+    border: 1px solid var(--purple);
+}
+button{
+    padding: 5px;
+    border: 1px solid var(--blue);
+}
